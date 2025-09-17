@@ -1,0 +1,1 @@
+I read "Big Data Quality: A Data Quality Profiling Model." I found the concept of Exploratory Quality Profiling interesting. This approach is notable because it doesn't just assess the existing quality of a dataset, but proactively runs different cleaning scenarios to find the most effective ways to improve it.
